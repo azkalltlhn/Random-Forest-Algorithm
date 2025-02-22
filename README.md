@@ -11,7 +11,7 @@ Random Forest is a supervised machine learning algorithm used for classification
 # Installation and Usage
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+   git clone https://github.com/azkalltlhn/Random-Forest-Algorithm.git
 
 2. **Install the required dependencies::**
    ```bash
